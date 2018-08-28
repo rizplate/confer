@@ -1,0 +1,412 @@
+schedule=[
+  {
+    "date": "10/14", 
+    "day": "Sunday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_reg0"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_1417_30", 
+        "time": "17:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_reception"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "10_1418_00", 
+        "time": "18:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "20"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "np_docsymp"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_149_00", 
+        "time": "9:00"
+      }
+    ]
+  }, 
+  {
+    "date": "10/15", 
+    "day": "Monday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_keynote1"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_1510_00", 
+        "time": "10:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_break1"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_1511_00", 
+        "time": "11:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "1"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "2"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_1511_30", 
+        "time": "11:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_lunch1"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_1512_50", 
+        "time": "12:50"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "3"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "4"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_1514_10", 
+        "time": "14:10"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_break2"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_1515_50", 
+        "time": "15:50"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "5"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "6"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_1516_20", 
+        "time": "16:20"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_demos"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "21"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "10_1518_00", 
+        "time": "18:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_steering"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "10_1521_00", 
+        "time": "21:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_reg1"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_158_30", 
+        "time": "8:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_breakfast1"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_158_45", 
+        "time": "8:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_opening"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_159_30", 
+        "time": "9:30"
+      }
+    ]
+  }, 
+  {
+    "date": "10/16", 
+    "day": "Tuesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_break3"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_1610_40", 
+        "time": "10:40"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "9"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "10"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_1611_10", 
+        "time": "11:10"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_lunch2"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_1612_50", 
+        "time": "12:50"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "11"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "12"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_1614_20", 
+        "time": "14:20"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "19"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "np_posters1"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_1616_00", 
+        "time": "16:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_reg2"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "np_breakfast2"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_168_30", 
+        "time": "8:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "7"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "8"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_169_00", 
+        "time": "9:00"
+      }
+    ]
+  }, 
+  {
+    "date": "10/17", 
+    "day": "Wednesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "15"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "16"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_1711_20", 
+        "time": "11:20"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_lunch3"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_1712_40", 
+        "time": "12:40"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_townhall"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_1713_30", 
+        "time": "13:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "17"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "18"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_1714_00", 
+        "time": "14:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_keynote2"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_1716_30", 
+        "time": "16:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_closing"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_1717_30", 
+        "time": "17:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "np_reg3"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "np_breakfast3"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_178_30", 
+        "time": "8:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "tbd", 
+            "session": "13"
+          }, 
+          {
+            "room": "tbd", 
+            "session": "14"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_179_00", 
+        "time": "9:00"
+      }
+    ]
+  }
+]

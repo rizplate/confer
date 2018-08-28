@@ -1,0 +1,490 @@
+sessions={
+  "1": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Controlling and Collaborating in VR", 
+    "submissions": [
+      "ufp1274", 
+      "ufp1047", 
+      "ufp1044", 
+      "ufp1305"
+    ], 
+    "time": "11:30"
+  }, 
+  "10": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Navigation", 
+    "submissions": [
+      "ufp1276", 
+      "ufp1410", 
+      "ufp1094", 
+      "ufp1022", 
+      "ufp1147"
+    ], 
+    "time": "11:10"
+  }, 
+  "11": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Mobile Interactions", 
+    "submissions": [
+      "ufp1179", 
+      "ufp1442", 
+      "ufp1075", 
+      "ufp1317", 
+      "ufp1187"
+    ], 
+    "time": "14:20"
+  }, 
+  "12": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Modelling and Animation", 
+    "submissions": [
+      "ufp1234", 
+      "ufp1103", 
+      "ufp1150", 
+      "ufp1215", 
+      "ufp1171"
+    ], 
+    "time": "14:20"
+  }, 
+  "13": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Touch Interaction", 
+    "submissions": [
+      "ufp1128", 
+      "ufp1395", 
+      "ufp1390", 
+      "ufp1451"
+    ], 
+    "time": "9:00"
+  }, 
+  "14": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Sensing and Acoustics", 
+    "submissions": [
+      "ufp1140", 
+      "ufp1138", 
+      "ufp1109", 
+      "ufp1013"
+    ], 
+    "time": "9:00"
+  }, 
+  "15": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Bodies and Sensing", 
+    "submissions": [
+      "ufp1226", 
+      "ufp1275", 
+      "ufp1385", 
+      "ufp1331"
+    ], 
+    "time": "11:20"
+  }, 
+  "16": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "VR", 
+    "submissions": [
+      "ufp1261", 
+      "ujrnl02", 
+      "ufp1069", 
+      "ufp1329"
+    ], 
+    "time": "11:20"
+  }, 
+  "17": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Haptics and VR", 
+    "submissions": [
+      "ufp1110", 
+      "ufp1388", 
+      "ufp1479", 
+      "ufp1501", 
+      "ufp1003"
+    ], 
+    "time": "14:00"
+  }, 
+  "18": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Web", 
+    "submissions": [
+      "ufp1309", 
+      "ufp1112", 
+      "ufp1416", 
+      "ufp1091", 
+      "ufp1537"
+    ], 
+    "time": "14:00"
+  }, 
+  "19": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Poster Session & Cofee Break", 
+    "submissions": [
+      "upp1021", 
+      "upp1022", 
+      "upp1034", 
+      "upp1039", 
+      "upp1040", 
+      "upp1043", 
+      "upp1044", 
+      "upp1046", 
+      "upp1049", 
+      "upp1052", 
+      "upp1054", 
+      "upp1055", 
+      "upp1058", 
+      "upp1059", 
+      "upp1060", 
+      "upp1066", 
+      "upp1071", 
+      "upp1073", 
+      "upp1074", 
+      "upp1075", 
+      "upp1077", 
+      "upp1080", 
+      "upp1091", 
+      "upp1094", 
+      "upp1095", 
+      "upp1096", 
+      "upp1097", 
+      "upp1104", 
+      "upp1106", 
+      "upp1107", 
+      "upp1117", 
+      "upp1122", 
+      "upp1124", 
+      "upp1126", 
+      "upp1127", 
+      "upp1131", 
+      "upp1132", 
+      "upp1135", 
+      "upp1136", 
+      "upp1144", 
+      "upp1145", 
+      "upp1148", 
+      "upp1154", 
+      "upp1161"
+    ], 
+    "time": "16:00"
+  }, 
+  "2": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Visualizations in 2D and 3D", 
+    "submissions": [
+      "ufp1230", 
+      "ufp1015", 
+      "ufp1129", 
+      "ufp1233"
+    ], 
+    "time": "11:30"
+  }, 
+  "20": {
+    "date": "10/14", 
+    "room": "tbd", 
+    "s_title": "Doctoral Symposiuam", 
+    "submissions": [
+      "udc1024", 
+      "udc1029", 
+      "udc1036", 
+      "udc1038", 
+      "udc1042", 
+      "udc1044", 
+      "udc1045", 
+      "udc1049"
+    ], 
+    "time": "9:00"
+  }, 
+  "21": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Demo Reception", 
+    "submissions": [
+      "ude1006", 
+      "ude1028", 
+      "ude1029", 
+      "ude1030", 
+      "ude1031", 
+      "ude1032", 
+      "ude1033", 
+      "ude1037", 
+      "ude1041", 
+      "ude1043", 
+      "ude1046", 
+      "ude1047", 
+      "ude1048", 
+      "ude1054", 
+      "ude1055", 
+      "ude1056", 
+      "ude1057", 
+      "ude1062", 
+      "ude1064", 
+      "ude1066", 
+      "ude1067", 
+      "ude1068", 
+      "ude1070", 
+      "ude1080", 
+      "ude1081"
+    ], 
+    "time": "18:00"
+  }, 
+  "3": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Fabrication", 
+    "submissions": [
+      "ufp1499", 
+      "ufp1133", 
+      "ufp1216", 
+      "ufp1371", 
+      "ujrnl01"
+    ], 
+    "time": "14:10"
+  }, 
+  "4": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Crowds and Human-AI Partnership", 
+    "submissions": [
+      "ufp1056", 
+      "ufp1071", 
+      "ufp1218", 
+      "ufp1488", 
+      "ufp1312"
+    ], 
+    "time": "14:10"
+  }, 
+  "5": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Haptics", 
+    "submissions": [
+      "ufp1186", 
+      "ufp1414", 
+      "ufp1472", 
+      "ufp1402"
+    ], 
+    "time": "16:20"
+  }, 
+  "6": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Human-Robot Symbiosis", 
+    "submissions": [
+      "ufp1254", 
+      "ufp1460", 
+      "ufp1315", 
+      "ufp1482"
+    ], 
+    "time": "16:20"
+  }, 
+  "7": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Sensing in the Small Scale", 
+    "submissions": [
+      "ufp1384", 
+      "ufp1443", 
+      "ufp1384", 
+      "ufp1319", 
+      "ufp1394"
+    ], 
+    "time": "9:00"
+  }, 
+  "8": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Authoring, Reading and Writing", 
+    "submissions": [
+      "ufp1355", 
+      "ufp1454", 
+      "ufp1456", 
+      "ufp1148", 
+      "ufp1200"
+    ], 
+    "time": "9:00"
+  }, 
+  "9": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Electronics", 
+    "submissions": [
+      "ufp1014", 
+      "ufp1372", 
+      "ufp1466", 
+      "ufp1217", 
+      "ufp1365"
+    ], 
+    "time": "11:10"
+  }, 
+  "np_break1": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Coffee break", 
+    "submissions": [], 
+    "time": "11:00"
+  }, 
+  "np_break2": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Coffee break", 
+    "submissions": [], 
+    "time": "15:50"
+  }, 
+  "np_break3": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Coffee break", 
+    "submissions": [], 
+    "time": "10:40"
+  }, 
+  "np_breakfast1": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Breakfast", 
+    "submissions": [], 
+    "time": "8:45"
+  }, 
+  "np_breakfast2": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Breakfast", 
+    "submissions": [], 
+    "time": "8:30"
+  }, 
+  "np_breakfast3": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Breakfast", 
+    "submissions": [], 
+    "time": "8:30"
+  }, 
+  "np_closing": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Closing ceremony", 
+    "submissions": [], 
+    "time": "17:30"
+  }, 
+  "np_demos": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Demo Reception", 
+    "submissions": [], 
+    "time": "18:00"
+  }, 
+  "np_docsymp": {
+    "date": "10/14", 
+    "room": "tbd", 
+    "s_title": "Doctoral Symposium", 
+    "submissions": [], 
+    "time": "9:00"
+  }, 
+  "np_keynote1": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Keynote: Jaime Teevan", 
+    "submissions": [], 
+    "time": "10:00"
+  }, 
+  "np_keynote2": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Keynote: Selma \u008aabanovi?", 
+    "submissions": [], 
+    "time": "16:30"
+  }, 
+  "np_lunch1": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Lunch", 
+    "submissions": [], 
+    "time": "12:50"
+  }, 
+  "np_lunch2": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Lunch", 
+    "submissions": [], 
+    "time": "12:50"
+  }, 
+  "np_lunch3": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Coffee break & Posters", 
+    "submissions": [], 
+    "time": "12:40"
+  }, 
+  "np_opening": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Opening Remarks & Awards", 
+    "submissions": [], 
+    "time": "9:30"
+  }, 
+  "np_posters1": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Poster Session & Cofee Break", 
+    "submissions": [], 
+    "time": "16:00"
+  }, 
+  "np_reception": {
+    "date": "10/14", 
+    "room": "tbd", 
+    "s_title": "Opening Reception @ HPI", 
+    "submissions": [], 
+    "time": "18:00"
+  }, 
+  "np_reg0": {
+    "date": "10/14", 
+    "room": "tbd", 
+    "s_title": "Registration", 
+    "submissions": [], 
+    "time": "17:30"
+  }, 
+  "np_reg1": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Registration", 
+    "submissions": [], 
+    "time": "8:30"
+  }, 
+  "np_reg2": {
+    "date": "10/16", 
+    "room": "tbd", 
+    "s_title": "Registration", 
+    "submissions": [], 
+    "time": "8:30"
+  }, 
+  "np_reg3": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Registration", 
+    "submissions": [], 
+    "time": "8:30"
+  }, 
+  "np_steering": {
+    "date": "10/15", 
+    "room": "tbd", 
+    "s_title": "Steering Committee Meeting", 
+    "submissions": [], 
+    "time": "21:00"
+  }, 
+  "np_townhall": {
+    "date": "10/17", 
+    "room": "tbd", 
+    "s_title": "Town hall", 
+    "submissions": [], 
+    "time": "13:30"
+  }
+}
