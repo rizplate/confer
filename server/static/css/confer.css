@@ -1284,7 +1284,7 @@ form .credit {
 
 @media (max-width: 400px) {
   .flex-grid {
-    display: block;
+    display: block !important;
   }
 }
 
