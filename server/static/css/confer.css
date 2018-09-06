@@ -1281,3 +1281,18 @@ form .credit {
  .fb-comments, .fb-comments * {
     width:100% !important;
 }
+
+@media (max-width: 400px) {
+  .flex-grid {
+    display: block;
+  }
+}
+
+.flex-grid {
+  display: flex;
+}
+
+.col img {
+  max-width: 200px;
+  max-height: 150px;
+}
