@@ -731,6 +731,8 @@ function get_paper_html(id){
   raw_html += '</td>'
 
   raw_html += '<td class="content">'
+  raw_html += '<div class="flex-grid">'
+  raw_html += '<div class="col">'
   raw_html += '<ul>'
 
   raw_html += '<li class="paper-title"><h3><span class="link" onclick=select_paper("'+id+'")>'+ entities[id].title +'</span>'
@@ -775,7 +777,11 @@ function get_paper_html(id){
     raw_html += '<li class="paper-keywords">' + entities[id].keywords.toString().split(new RegExp(",|;", 'g')).join(", ") + '</li>'
   }
   raw_html += '</ul>'
-  raw_html += '</td>'
+  raw_html += '</div><div class="col">'
+  if(entities[id].image_url != null && entities[id].image_url != ""){
+  	raw_html += '<img src="' + entities[id].image_url + '">'
+  }
+  raw_html += '</div></div></td>'
 
   raw_html += '</tr>'
 
